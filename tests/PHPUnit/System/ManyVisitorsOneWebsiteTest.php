@@ -110,7 +110,7 @@ class ManyVisitorsOneWebsiteTest extends SystemTestCase
             array(array('UserCountry.getLocationFromIP'), array(
                 'testSuffix' => '_IPv6',
                 'otherRequestParameters' => array(
-                    'ip' => '2001:db8:85a3:0:0:8a2e:370:7334',
+                    'ip' => '2003:f6:93bf:26f:9ec7:a6ff:fe29:27df',
                 )
             )),
         );
